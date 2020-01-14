@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "ukuran_font_default">200sp</dimen>
+    <dimen name = "ukuran_font_banyak_digit">100sp</dimen>
+    <dimen name = "ukuran_font_default_land">75sp</dimen>
+</resources>
