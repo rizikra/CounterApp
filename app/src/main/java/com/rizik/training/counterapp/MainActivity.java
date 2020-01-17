@@ -28,10 +28,6 @@ public class MainActivity extends AppCompatActivity {
         btnCount = findViewById(R.id.btn_count);
         btnReset = findViewById(R.id.btn_reset);
 
-        if(getResources().getConfiguration().orientation == 1){
-
-        }
-
         btnCount.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
